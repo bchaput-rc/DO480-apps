@@ -7,4 +7,4 @@ images:
     newTag: 1-152
 resources:
 - route.yaml
-nameSufix: -apac
+nameSuffix: -apac
