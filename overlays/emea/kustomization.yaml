@@ -6,6 +6,6 @@ images:
     newName: registry.redhat.io/rhel8/mysql-80
     newTag: 1-156
 resources:
-- route-emea.yaml
+- route.yaml
 nameSuffix: -emea
 
